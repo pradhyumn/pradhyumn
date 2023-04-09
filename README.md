@@ -8,7 +8,7 @@
   </a>
   
   <a href="https://scholar.google.com/citations?user=0OBfT6IAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-GS-blue?style=for-the-badge&logo=Google&logoColor=white" alt="GoogleScholar Badge"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-blue?style=for-the-badge&logo=Google&logoColor=white" alt="GoogleScholar Badge"/>
   </a>
 </div>
 
