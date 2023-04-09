@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/assassinproddy">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://scholar.google.com/citations?user=0OBfT6IAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-GS-blue" alt="GoogleScholar Badge"/>
   </a>
 </div>
 
