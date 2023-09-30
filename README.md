@@ -32,9 +32,9 @@ Hey! How's everything going?
   
 ## 💫About Me
 
-💼 Education : Graduate student at NYU specializing in Machine Learning. Undergraduate from IIT Kharagpur with 2+ years of experience in the Aerospace Industry (Airbus).
+💻 Education : Graduate student at NYU specializing in Machine Learning. Undergraduate from IIT Kharagpur with 2+ years of experience in the Aerospace Industry (Airbus).
 
-💻 Experience : C++ and Python software developer, good at Machine Learning Algorithms, intermediate at Pytorch, Pandas and Pyspark.
+💼 Experience : C++ and Python software developer, good at Machine Learning Algorithms, intermediate at Pytorch, Pandas and Pyspark.
   
 🔭 My unique quality : I am good at understanding the Mathematics behind everything, have also qualified the RMO (Regional Mathematics Olympiad) in 2013 and always look at things from an algorithmic perspective. I am also very good at Probability & Stochastic Processes.
   
