@@ -32,7 +32,7 @@ Hey! How's everything going?
   
 ## 💫About Me
 
-💻 Education : Graduate student at NYU specializing in Machine Learning. Undergraduate from IIT Kharagpur with 2+ years of experience in the Aerospace Industry (Airbus).
+💻 Education : Graduate student at NYU specializing in Machine Learning applications. Undergraduate from IIT Kharagpur with 2+ years of experience in the Aerospace Industry (Airbus).
 
 💼 Experience : C++ and Python software developer, good at Machine Learning Algorithms, intermediate at Pytorch, Pandas and Pyspark.
   
@@ -57,6 +57,6 @@ Hey! How's everything going?
 ## 📊GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=pradhyumn&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumn&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </h4>
