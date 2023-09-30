@@ -18,7 +18,7 @@
 
 <h4>
 <div id="wave" align="center">
-Hey! How's everything going?
+## Hey! How's everything going?
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
