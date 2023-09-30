@@ -16,9 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=pradhyumn&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h4>
+<h2>
 <div id="wave" align="center">
-## Hey! How's everything going?
+Hey! How's everything going?
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
@@ -27,9 +27,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Pradhyumn's+profile!;Graduate+student+at+NYU;Experienced+C%2B%2B+developer+;Good+at+Machine+Learning+Algorithms+;Intermediate+Python+developer+;Jack+of+all+trades!">
     </a>
 </p>
-
+</h2>
+<h4>
 <div align="center">
-  
+
 ## 💫About Me
 
 💻 Education : Graduate student at NYU specializing in Machine Learning applications. Undergraduate from IIT Kharagpur with 2+ years of experience in the Aerospace Industry (Airbus).
