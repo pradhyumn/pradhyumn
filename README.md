@@ -56,7 +56,7 @@ Hey! How's everything going?
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
 ## 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pradhyumn&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pradhyumn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
