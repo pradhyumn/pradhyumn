@@ -24,7 +24,7 @@ Hey! How's everything going?
 
 <p align="center">
     <a href="https://github.com/pradhyumn/pradhyumn">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Pradhyumn's+profile!;Graduate+student+at+NYU;Experienced+C%2B%2B+developer+;Good+at+Machine+Learning+Algorithms+;Intermediate+Python+developer+;Jack+of+all+trades!">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Pradhyumn's+profile!;Graduate+student+at+NYU;Experienced+C%2B%2B+developer+;Good+at+ML+Algorithms+;Intermediate+Python+developer+;Jack+of+all+trades!">
     </a>
 </p>
 </h2>
