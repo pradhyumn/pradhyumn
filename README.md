@@ -34,7 +34,7 @@ Hey! How's everything going?
 
 ## 💫About Me
 
-💻 Education : Graduate student at NYU specializing in Machine Learning applications. Undergraduate from IIT Kharagpur with 2+ years of experience in the Aerospace Industry (Airbus).
+💻 Education : Graduate student at NYU specializing in Machine Learning applications. Undergraduate from IIT Kharagpur with 3+ years of experience in the Aerospace Industry (Airbus).
 
 💼 Experience : C++ and Python software developer, good at Machine Learning Algorithms, intermediate at Pytorch, Pandas and Pyspark.
   
