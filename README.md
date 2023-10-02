@@ -56,9 +56,31 @@ Hey! How's everything going?
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
+<p align="center">
+<a href="https://github.com/pradhyumn">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumn&hide=jupyter+notebook,html,css,scss&langs_count=15&theme=onedark&layout=compact" />
+</a>
+<a href="https://github.com/pradhyumn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhyumn&show_icons=true&line_height=27&count_private=true&theme=onedark&include_all_commits=true" alt="Prannaya's GitHub Stats" />
+</a>
+</p>
+
+
+
 ## 📊GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=pradhyumn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumn&hide=jupyter+notebook&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+<a href="https://github.com/pradhyumn">
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=pradhyumn&show_icons=true&count_private=true&no-frame=true&margin-w=15&margin-h=15&theme=onedark">
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/pradhyumn">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradhyumn&theme=onedark&count_private=true">
+</a>
+</p>
 
 </h4>
