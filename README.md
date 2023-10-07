@@ -72,7 +72,7 @@ Hey! How's everything going?
 
 <p align="center">
 <a href="https://github.com/pradhyumn">
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=pradhyumn&show_icons=true&count_private=true&no-frame=true&margin-w=15&margin-h=15&theme=onedark">
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=pradhyumn&show_icons=true&count_private=true&no-frame=true&margin-w=15&margin-h=15&theme=radical">
 </a>
 </p>
 
