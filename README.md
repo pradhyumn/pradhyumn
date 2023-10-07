@@ -62,10 +62,10 @@ Hey! How's everything going?
 ## 📊GitHub Stats
 <p align="center">
 <a href="https://github.com/pradhyumn">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhyumn&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhyumn&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/pradhyumn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumn&hide=jupyter+notebook&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pradhyumn's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumn&hide=jupyter+notebook&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pradhyumn's GitHub Stats" />
 </a>
 </p>
 
